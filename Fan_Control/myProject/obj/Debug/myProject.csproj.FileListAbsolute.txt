@@ -1,0 +1,40 @@
+c:\users\jean chrinot\documents\visual studio 2015\Projects\myProject\myProject\bin\Debug\myProject.exe.config
+c:\users\jean chrinot\documents\visual studio 2015\Projects\myProject\myProject\bin\Debug\myProject.exe
+c:\users\jean chrinot\documents\visual studio 2015\Projects\myProject\myProject\bin\Debug\myProject.pdb
+c:\users\jean chrinot\documents\visual studio 2015\Projects\myProject\myProject\obj\Debug\myProject.csprojResolveAssemblyReference.cache
+c:\users\jean chrinot\documents\visual studio 2015\Projects\myProject\myProject\obj\Debug\myProject.Form1.resources
+c:\users\jean chrinot\documents\visual studio 2015\Projects\myProject\myProject\obj\Debug\myProject.Properties.Resources.resources
+c:\users\jean chrinot\documents\visual studio 2015\Projects\myProject\myProject\obj\Debug\myProject.csproj.GenerateResource.Cache
+c:\users\jean chrinot\documents\visual studio 2015\Projects\myProject\myProject\obj\Debug\myProject.exe
+c:\users\jean chrinot\documents\visual studio 2015\Projects\myProject\myProject\obj\Debug\myProject.pdb
+C:\Users\Jean Chrinot\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Jean Chrinot\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Jean Chrinot\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Jean Chrinot\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\Jean Chrinot\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Jean Chrinot\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Jean Chrinot\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Debug\Emgu.CV.World.dll
+C:\Users\Jean Chrinot\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Debug\Emgu.CV.World.NetStandard1_4.dll
+C:\Users\Jean Chrinot\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Debug\ZedGraph.dll
+C:\Users\Jean Chrinot\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Jean Chrinot\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Jean Chrinot\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Debug\Emgu.CV.World.xml
+C:\Users\Jean Chrinot\Documents\Visual Studio 2015\Projects\myProject\myProject\obj\Debug\myProject.csproj.myProject.exe.config
+C:\Users\Jean Chrinot\Documents\Visual Studio 2015\Projects\myProject\myProject\obj\Debug\myProject.Form3.resources
+D:\C Sharp\Smart Shop Project\Windows Form\Fan_Control\myProject\bin\Debug\myProject.exe.config
+D:\C Sharp\Smart Shop Project\Windows Form\Fan_Control\myProject\obj\Debug\myProject.exe
+D:\C Sharp\Smart Shop Project\Windows Form\Fan_Control\myProject\obj\Debug\myProject.pdb
+E:\160207077_Mustafa_Uysal\Smart Shop Project C#\Code\Windows Form C#\Fan_Control\myProject\bin\Debug\myProject.exe.config
+E:\160207077_Mustafa_Uysal\Smart Shop Project C#\Code\Windows Form C#\Fan_Control\myProject\obj\Debug\myProject.exe
+E:\160207077_Mustafa_Uysal\Smart Shop Project C#\Code\Windows Form C#\Fan_Control\myProject\obj\Debug\myProject.pdb
+E:\160207077_Mustafa_Uysal\Smart Shop Project C#\Code\Windows Form C#\Fan_Control\myProject\bin\Debug\myProject.exe
+E:\160207077_Mustafa_Uysal\Smart Shop Project C#\Code\Windows Form C#\Fan_Control\myProject\bin\Debug\myProject.pdb
+E:\160207077_Mustafa_Uysal\Smart Shop Project C#\Code\Windows Form C#\Fan_Control\myProject\bin\Debug\Emgu.CV.UI.xml
+E:\160207077_Mustafa_Uysal\Smart Shop Project C#\Code\Windows Form C#\Fan_Control\myProject\bin\Debug\Emgu.CV.UI.GL.xml
+E:\160207077_Mustafa_Uysal\Smart Shop Project C#\Code\Windows Form C#\Fan_Control\myProject\bin\Debug\Emgu.CV.World.xml
+E:\160207077_Mustafa_Uysal\Smart Shop Project C#\Code\Windows Form C#\Fan_Control\myProject\obj\Debug\myProject.csprojResolveAssemblyReference.cache
+E:\160207077_Mustafa_Uysal\Smart Shop Project C#\Code\Windows Form C#\Fan_Control\myProject\obj\Debug\myProject.csproj.myProject.exe.config
+E:\160207077_Mustafa_Uysal\Smart Shop Project C#\Code\Windows Form C#\Fan_Control\myProject\obj\Debug\myProject.Form1.resources
+E:\160207077_Mustafa_Uysal\Smart Shop Project C#\Code\Windows Form C#\Fan_Control\myProject\obj\Debug\myProject.Form3.resources
+E:\160207077_Mustafa_Uysal\Smart Shop Project C#\Code\Windows Form C#\Fan_Control\myProject\obj\Debug\myProject.Properties.Resources.resources
+E:\160207077_Mustafa_Uysal\Smart Shop Project C#\Code\Windows Form C#\Fan_Control\myProject\obj\Debug\myProject.csproj.GenerateResource.Cache
